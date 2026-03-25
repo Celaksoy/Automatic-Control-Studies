@@ -72,8 +72,6 @@ The aim is to understand system behavior, design appropriate controllers, and ev
 * Nonlinear control techniques
 * Real-time system applications
 
----
+## Author
 
-## 👤 Author
-
-* Your Name
+* Celal Aksoy
